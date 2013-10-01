@@ -1,2 +1,2 @@
--packages_apps_Gallery2
+packages_apps_Gallery2
 =======================
